@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col';
 const NavBar=()=>{
     return(
         <Container className="text-center">
-            <h1 className="">e-commerce</h1>
+            <h1 className="title">E-Commerce</h1>
             <Row className="mb-0">
                 <Col xs={2}>
                     <Button variant="outline-primary" size="sm" className="w-100 prueba">Ofertas</Button>
